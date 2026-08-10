@@ -1,5 +1,7 @@
 # 🌍 Weather & News Agent 🤖
 
+**🌐 Live Demo:** [https://weather-news-agent.onrender.com](https://weather-news-agent.onrender.com)
+
 Welcome to the **Weather & News Agent**, an intelligent, tool-using AI chatbot powered by **LangGraph**, **Google Gemini**, and **Streamlit**. It doesn't just chat—it *acts*. Need the latest global news? It searches the web. Want the weather in Tokyo (or Jakarta!)? It fetches real-time data.
 
 ![App Preview](./preview.png)
